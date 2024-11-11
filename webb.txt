@@ -1,0 +1,115 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="he.css">
+</head>
+
+<body>
+    <h1 align="center"> <b>WEB PROGRAMMING</b></h1>
+    <hr>
+    <ol>
+        <h3>
+            <li><a href="#a">Introduction to Web</a></li>
+        </h3>
+        <h3>
+            <li><a href="#b">Client-Server</a></li>
+        </h3>
+        <h3>
+            <li><a href="#c">Application Server</a></li>
+        </h3>
+        <h3>
+            <li><a href="#d">Web Security</a></li>
+        </h3>
+        <h3>
+            <li><a href="#e">Types of Web content</a></li>
+        </h3>
+        <h3>
+            <li><a href="#f">Overview of http</a></li>
+        </h3>
+
+    </ol>
+<div id="a"> <h1 align="center" >INTRTODUCTION TO WEB</h1>
+    <P><i>Web Technology refers to the various tools and techniques that are utilized in the process of communication
+            between different types of devices over the Internet. A web browser is used to access web pages. Web
+            browsers can be defined as programs that display text, data, pictures, animation, and video on the Internet.
+            Hyperlinked resources on the World Wide Web can be accessed using software interfaces provided by Web
+            browsers.</i></P>
+    <h2>History Of Internet</h2>
+    <p>
+        This marvelous tool has quite a history that holds its roots in the cold war scenario. A
+        need was realized to connect the top universities of the United States so that they can share all
+        the research data without having too much of a time lag. This attempt was a result of Advanced
+        Research Projects Agency (ARPA) which was formed at the end of 1950s just after the Russians
+        had climbed the space era with the launch of Sputnik. After the ARPA got success in 1969, it
+        didn‘t take the experts long to understand that how much potential can this interconnection tool
+        have. In 1971 Ray Tomlinson made a system to send electronic mail. This was a big step in the
+        making as this opened gateways for remote computer accessing i.e.telnet.
+
+    </p>
+ <img src="his.jpg" alt="history" height="500px" width="550px"></div>
+ <div id="b"> <h1  align="center">CLIENT-SERVER</h1>
+    <p>Client-server denotes a relationship between cooperating programs in an application, composed of clients
+        initiating requests for services and servers providing that function or service.</p>
+    <img src="client.jpg" height="500px" width="450px">
+    <p>The client-server model, or client-server architecture, is a distributed application framework dividing tasks between servers and clients, which either reside in the same system or communicate through a computer network or the Internet. The client relies on sending a request to another program in order to access a service made available by a server. The server runs one or more programs that share resources with and distribute work among clients.
+
+        The client server relationship communicates in a request–response messaging pattern and must adhere to a common communications protocol, which formally defines the rules, language, and dialog patterns to be used. Client-server communication typically adheres to the TCP/IP protocol suite.</p>
+        <p>A client-server network is the medium through which clients access resources and services from a central computer, via either a local area network (LAN) or a wide-area network (WAN), such as the Internet. A unique server called a daemon may be employed for the sole purpose of awaiting client requests, at which point the network connection is initiated until the client request has been fulfilled.
+
+            Network traffic is categorized as client-to-server (north-south traffic) or server-to-server (east-west traffic). Popular network services include e-mail, file sharing, printing, and the World Wide Web. A major advantage of the client-server network is the central management of applications and data.
+            
+            ‍</p></div>
+            <div id="c"><h1  align="center">APPLICATION SERVER</h1>
+                <P>An application server is a modern form of platform middleware. It is system software that resides between the
+                    operating system (OS) on one side, the external resources (such as a database management system [DBMS],
+                    communications and Internet services) on another side and the users’ applications on the third side. The
+                    function of the application server is to act as host (or container) for the user’s business logic while
+                    facilitating access to and performance of the business application. The application server must perform despite
+                    the variable and competing traffic of client requests, hardware and software failures, the distributed nature of
+                    the larger-scale applications, and potential heterogeneity of data and processing resources required to fulfill
+                    the business requirements of the applications.</P>
+                <br>A high-end online-transaction-processing-style application server delivers business applications with guaranteed
+                levels of performance, availability and integrity. An application server also supports multiple application design
+                patterns, according to the nature of the business application and the practices in the particular industry for which
+                the application has been designed. It typically supports multiple programming languages and deployment platforms,
+                although most have a particular affinity to one or two of these. Some application servers that implement standard
+                application interfaces and protocols, such as Java Enterprise Edition (Java EE), are entirely proprietary. At
+                present, the proprietary application servers are typically built into OSs, packaged applications, such as portals
+                and e-commerce solutions, or other products and are not offered as stand-alone products. Proprietary and Java
+                EE-compliant application servers are estimated in our Market Share and Forecast reports.
+            
+                As the application server market matures, high performance becomes a stronger criterion, and thus where vendors now
+                incorporate extensions to application servers, such as extreme transaction processing and event-based processing
+                capabilities, these are also included in this market segment.
+                <img src="app.jpg" width="500px" height="450px"></div>
+                <div id="d">   <h1 align="center">WEB SECURITY</h1>
+                    <p>Web security protects networks, servers, and computer systems from damage to or the theft of software, hardware, or data. It includes defending computer systems from misdirecting or disrupting the services they are designed to provide.<br>
+                        Web security is synonymous with cybersecurity and also covers website security, which involves protecting websites from attacks. It includes cloud security and web application security, which defend cloud services and web-based applications, respectively. Website protection technology has enabled enhanced protection mechanisms, such as the protection of a virtual private network (VPN), which also falls under the web security umbrella
+                    
+                    </p>
+            <img src="web1.jpg" width="500px" height="450px">
+                </body></div>
+                <div id="e"> <h1 align="center">TYPES OF WEB CONTENT</h1>
+                    <P>Web content is defined as any writing and all associated digital media, such as text, audio, video, and images
+                        published on the internet. Web content is created using many different formats: writing, photography, film,
+                        video, and images. It is generally considered a creative expression of thoughts and ideas that may or may not
+                        have a commercial purpose.<br>
+                
+                        With today’s society and the growing digital technology, the rate of information bombarding people’s lives has
+                        doubled in the last ten years. So, it’s no surprise that people are searching for ways to control their
+                        ever-increasing sources of information overload.<br>
+                
+                        There are different types of content on the web that you can use to cater to your audience’s needs. You will
+                        have to adjust your strategy depending on what type of content you use, as it directly impacts your site’s
+                        performance based on its quality and amount. Below are the some of most common types of web content:</P>
+                <img src="content.jpg" height="500px" width="400px"></div>
+                <div id="f">   <h1 align="center" class="head">OVERVIEW OF HTTP</h1>
+                    <p>HTTP is a protocol for fetching resources such as HTML documents. It is the foundation of any data exchange on
+                        the Web and it is a client-server protocol, which means requests are initiated by the recipient, usually the Web
+                        browser. A complete document is typically constructed from resources such as text content, layout instructions,
+                        images, videos, scripts, and more.<br></p>
+                    <img src="reply.jpg" height="500px" width="450px"></div>
+
+</body>
+
+</html>
