@@ -1,6 +1,5 @@
-def display_pyramid(N):
-    for i in range(1,N+1):
-        print("".join(str(i*j)))
-for j in range(1,i+1):
-            N=int(input("enter no of steps"))
-display_pyramid(N)
+n=int(input("enter the value of n: "))
+for i in range(1,n+1):
+    for j in range(1,i+1):
+        print(i*j,end=" ")
+    print()
